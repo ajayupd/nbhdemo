@@ -11,7 +11,7 @@ public class Application {
 
     @GetMapping("/message")
     public String message() {
-        return "My First Sample for 2U- NBH Program for Ashish";
+        return "My First Sample for 2U- NBH Program for Ajay";
     }
 
     public static void main(String[] args) {
